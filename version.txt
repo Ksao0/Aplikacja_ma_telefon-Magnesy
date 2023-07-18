@@ -1,5 +1,4 @@
 Wersja 1.4.5
-   nowych i starych funkcji. Jest to najprawdopodobniej ostatnia aktualizacja poprawkowa w najbliższym czasie.
 Zmieniliśmy konwencję aktualizowania programu, od teraz aktualizacja będzie możliwa jedynie z pomocą
 naszego programu na system Windows. Takie rozwiązanie znacznie zmniejsza szansę na nieodwracalne uszkodzenie kodu
 Co to oznacza w praktyce?
