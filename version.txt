@@ -1,5 +1,3 @@
-Wersja 1.4.5
-Zmieniliśmy konwencję aktualizowania programu, od teraz aktualizacja będzie możliwa jedynie z pomocą
-naszego programu na system Windows. Takie rozwiązanie znacznie zmniejsza szansę na nieodwracalne uszkodzenie kodu
-Co to oznacza w praktyce?
-Możliwość aktualizacji tylko z poziomu telefonu została usunięta na rzecz integracji z wersją na system Windows
+Wersja 2.0.1
+Stworzyliśmy zupełnie nowy motyw i styl oraz odświerzyliśmy ikonę aplikacji
+Od teraz możesz też zapisywać swoje obliczenia do historii, więc nigdy ich nie stracisz!
