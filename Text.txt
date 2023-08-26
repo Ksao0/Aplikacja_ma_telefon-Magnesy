@@ -1,7 +1,7 @@
 Mam do ciebie pytanie (na komputer):
-Wcześniej zapytałeś się mnie o to, czy możnabybyło tworzyć wykresy danych o klientach,
-ale nie podałeś konkretnych danych, które miałyby one przedstaiwać. Jeśli wykres
-będzie wyświetlać zbyt wiele danych to stanie się nieczytelny przy większej liczbie klientów
+Wcześniej zapytałeś się mnie o to, czy możnabybyło tworzyć wykresy danych o klientach,ale nie podałeś konkretnych danych, które miałyby one przedstaiwać. 
+
+Jeśli wykres będzie wyświetlać zbyt wiele danych to stanie się nieczytelny przy większej liczbie klientów
 
 Kilka tygodni temu zacząłem się uczyć "uczenia wzmacnianego" w programowaniu
 (możesz wyszukać w necie, ciekawy temat), jeśli chciałbyś je wykorzystać w
