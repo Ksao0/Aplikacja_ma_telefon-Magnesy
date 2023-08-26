@@ -1,5 +1,3 @@
-Teraz mogę ci tutaj zostawiać niezależne od aktualizacji wiadomości :D
-
 Mam do ciebie pytanie (na komputer):
 Wcześniej zapytałeś się mnie o to, czy możnabybyło tworzyć wykresy danych o klientach,
 ale nie podałeś konkretnych danych, które miałyby one przedstaiwać. Jeśli wykres
