@@ -1,1 +1,10 @@
 Teraz mogę ci tutaj zostawiać niezależne od aktualizacji wiadomości :D
+
+Mam do ciebie pytanie (na komputer):
+Wcześniej zapytałeś się mnie o to, czy możnabybyło tworzyć wykresy danych o klientach,
+ale nie podałeś konkretnych danych, które miałyby one przedstaiwać. Jeśli wykres
+będzie wyświetlać zbyt wiele danych to stanie się nieczytelny przy więksej liczbie klientów
+
+Kilka tygodni temu zacząłem się uczyć "uczenia wzmacnianego" w programowaniu
+(możesz wyszukać w necie, ciekawy temat), jeśli chciałbyś je wykorzystać w
+programie na komputer to wymyśl gdzie mogę je ci zaimplementować
