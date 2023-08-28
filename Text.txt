@@ -1,3 +1,3 @@
 Co byś powiedział na to, aby dodać podsumowanie tygodniowe, miesięczne albo oba do aplikacji?
 Pokazyałoby dane w porównaniu do poprzedniego tygodnia/miesiąca
-Np. ilość sprzedanych magnesów/pakietów,ile zarobiono itp. w formie np. wykresu
+Np. ilość sprzedanych magnesów/pakietów, ile zarobiono itp. w formie np. wykresu
