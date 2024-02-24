@@ -1,8 +1,5 @@
-Chcesz, żebym dodał tutaj jeszcze jakieś opcje, albo zrobił jakąś nową aplikację?
+Chcesz, żebym dodał tutaj jeszcze jakieś opcje, albo zrobił coś nowego?
 
-W przypadku nowej apki najprawdopodobniej bardzo zmieniłbym wygląd interfejsu
+Nawet coś tylko, abym mógł sobie poćwiczyć, bo nie mam już pomysłów
 
-Mogę zrobić co chcesz, np coś do:
- - liczenia wydatków
- - szyfrowania tekstu
 
