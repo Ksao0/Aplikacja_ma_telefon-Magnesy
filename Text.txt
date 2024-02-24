@@ -1,1 +1,8 @@
+Chcesz, żebym dodał tutaj jeszcze jakieś opcje, albo zrobił jakąś nową aplikację?
+
+W przypadku nowej apki najprawdopodobniej bardzo zmieniłbym wygląd interfejsu
+
+Mogę zrobić co chcesz, np coś do:
+ - liczenia wydatków
+ - szyfrowania tekstu
 
