@@ -1,3 +1,7 @@
 {
-  0
+  "state": 0,
+  "info": "Aplikacja dostępna.",
+  "latest_version": 5,
+  "apk_url": "https://raw.githubusercontent.com/Ksao0/Aplikacja_ma_telefon-Magnesy/main/app-release.apk",
+  "apk_sha256": ""
 }
